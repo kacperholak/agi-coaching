@@ -1,2 +1,2 @@
 permalink
-/src/components/App.js
+/src/components/App.jsx

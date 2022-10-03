@@ -1,2 +1,2 @@
 permalink
-/src/index.js
+/src/pages/index.js
